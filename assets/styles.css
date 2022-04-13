@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  line-height: 0;
+  background: linear-gradient(to right, rgba(53,41,91,0.5), rgba(214,158,255,0.5));
+  background-image: url('./tech-data-dag-2022-title.png');
+  background-size: cover;
+}
