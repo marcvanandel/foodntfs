@@ -9,3 +9,7 @@ Current version is published on IPFS using [NFT Storage](https://nft.storage/) (
 - [ipfs link to baf...zvi](ipfs://bafybeidpqdm5pwxd6bkognr7bwmvmhxowdfitfgwiho34xbi2mio6qc7yi)
 - [https link to baf...zvi](https://bafybeidy27fh3ma4e6cxy34d2kzy2uemn2d2m4pgb3bbgm5x3psttqqzvi.ipfs.nftstorage.link/)
 
+
+Example FoodNFT coupon #40:
+
+![token 40](FoodNFT-40.png)
